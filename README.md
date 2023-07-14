@@ -12,7 +12,7 @@
 ### Links
 
 - [Solution URL](https://github.com/diegosticks/backdrop-css)
-- [Live site URL](https://chijiokerbackdrop-css.netlify.app/)
+- [Live site URL](https://chijiokebackdrop-css.netlify.app/)
 
 ## My process
 -  This is a project to show the backdrop property of css, check my css file to see the implementation.
